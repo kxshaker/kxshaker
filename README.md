@@ -4,7 +4,6 @@
 - ✨ Linux Kernel & Distros, C/C++ Python JS BASH Carbon, Game Development.
 - 🌱 I’m Always learning Penetration Testing, Malware Analysis, SFML (Simple Fast Multimedia Lib)
 - 💞️ I’m looking to collaborate on anything mentioned in the 2 lines above.
-- 📫 How to reach me => mewbyte.com
 
 <!---
 kxshaker/kxshaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
